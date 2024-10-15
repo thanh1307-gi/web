@@ -1,0 +1,33 @@
+
+h1 {
+    color:green;
+    text-align: left;
+    padding: 0 320 0 20;
+}
+*{
+    text-align: left;
+}
+html {
+    background: url("https://th.bing.com/th/id/OIP.FKlHu46YzBJZsL5Ze_9KXQHaEK?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 30px;
+    font-family: arial;
+}
+p{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+#main{
+    padding:0 320px 0 20px;
+}
+#bottom{
+    text-align: center;
+    font-weight: 700;
+    background-color: aqua;
+    line-height: 30px;
+    margin: 30px;
+}
